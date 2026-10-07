@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+Practice makes perfect.
+NCRE Level 2 C language file exercise.
